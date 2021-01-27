@@ -1,1 +1,8 @@
-East1. ЦСКА, points 752. СКА, points 663. Локомотив, points 674. Динамо М, points 635. Динамо Мн, points 576. Йокерит, points 557. Северсталь, points 548. Витязь, points 52
+East1. ЦСКА, points 75
+2. СКА, points 66
+3. Локомотив, points 67
+4. Динамо М, points 63
+5. Динамо Мн, points 57
+6. Йокерит, points 55
+7. Северсталь, points 54
+8. Витязь, points 52

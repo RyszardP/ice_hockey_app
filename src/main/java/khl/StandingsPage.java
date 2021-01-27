@@ -11,13 +11,6 @@ public class StandingsPage {
         this.webDriver = webDriver;
     }
 
- /*   third
-            fourth
-    fifth
-            sixth
-    seventh
-            eighth*/
-
     @FindBy(xpath = "/html/body/div[5]/div[2]/div[3]/div[2]/div[1]/div[1]/div[3]/div/div/div[3]/div[2]/div/table/tbody/tr[1]/td[2]")
     private WebElement firstInWestConf;
 
